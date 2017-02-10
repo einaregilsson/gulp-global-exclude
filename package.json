@@ -1,6 +1,6 @@
 {
   "name": "gulp-global-exclude",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add exclude patterns to gulp that will be used for any .src or .watch call.",
   "main": "index.js",
   "scripts": {
