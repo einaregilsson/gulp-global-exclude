@@ -1,0 +1,25 @@
+{
+  "name": "gulp-global-exclude",
+  "version": "1.0.0",
+  "description": "Add exclude patterns to gulp that will be used for any .src or .watch call.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/einaregilsson/gulp-global-exclude.git"
+  },
+  "keywords": [
+    "gulp",
+    "exclude",
+    "glob",
+    "ignore"
+  ],
+  "author": "Einar Egilsson <einar@einaregilsson.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/einaregilsson/gulp-global-exclude/issues"
+  },
+  "homepage": "https://github.com/einaregilsson/gulp-global-exclude#readme"
+}
